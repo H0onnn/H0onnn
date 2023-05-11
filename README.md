@@ -1,8 +1,9 @@
+<div align="center">
+
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=H0onnn&show_icons=true&theme=radical)
 
-<div align="center">
   <h3><b>:books: Tech Stack :books:</b></h3>
   <div>
     <p>Techs that I've used at least once</p>
