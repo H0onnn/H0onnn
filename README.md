@@ -7,8 +7,6 @@
   <h3><b>:books: Tech Stack :books:</b></h3>
   <div>
     <p>Techs that I've used at least once</p>
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=black"/>&nbsp
@@ -18,8 +16,8 @@
   <br />
   <h3>:crown: About me :crown:</h3>  
   <div>
-    <a href="mailto:looke2930@gmail.com" target="_blank"><img src="https://img.shields.io/badge/looke2930@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
-  <a href="https://www.instagram.com/looke____/" target="_blank"><img src="https://img.shields.io/badge/looke____-E4405F?style=flat-square&logo=instagram&logoColor=white"/>&nbsp
+    <a href="mailto:dukei201248@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dukei201248@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
+  <a href="https://www.instagram.com/h0o_nii/" target="_blank"><img src="https://img.shields.io/badge/h0o_nii__-E4405F?style=flat-square&logo=instagram&logoColor=white"/>&nbsp
   </div>
 </div>
 <!--
