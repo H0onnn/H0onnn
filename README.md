@@ -1,5 +1,3 @@
-<div align="center">
-
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=H0onnn&show_icons=true&theme=radical)
@@ -32,7 +30,6 @@
     <a href="mailto:dukei201248@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dukei201248@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
   <a href="https://www.instagram.com/h0o_nii/" target="_blank"><img src="https://img.shields.io/badge/h0o_nii-E4405F?style=flat-square&logo=instagram&logoColor=white"/>&nbsp
   </div>
-</div>
 <!--
 **H0onnn/H0onnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
