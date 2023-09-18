@@ -4,11 +4,6 @@
 
   <h3><b>:books: Tech Stack :books:</b></h3>
   <div>
-    <p><b>Tools</b></p>
-    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp
-    <br />
-    <br />
     <p><b>Front_End</b></p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>&nbsp
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=black"/>&nbsp
@@ -17,8 +12,6 @@
     <br />
     <br />
   </div>
-  <br />
-  <br />
   <h3>:crown: About me :crown:</h3>  
   <div>
     <a href="mailto:dukei201248@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dukei201248@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
