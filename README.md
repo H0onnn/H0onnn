@@ -2,9 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=H0onnn&show_icons=true&theme=radical)
 
-  <h3><b>:books: Tech Stack :books:</b></h3>
+  <h3><b>:books: My Skills :books:</b></h3>
   <div>
-    <p><b>Front_End</b></p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>&nbsp
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=black"/>&nbsp
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>&nbsp
