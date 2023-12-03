@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=H0onnn&show_icons=true&theme=radical)
 
   <h3><b>:books: My Skills :books:</b></h3>
