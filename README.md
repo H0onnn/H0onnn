@@ -9,7 +9,7 @@
     <br />
     <br />
   </div>
-  <h3>About me</h3>  
+  <h3>Contact me</h3>  
   <div>
     <a href="mailto:dukei201248@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dukei201248@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
   <a href="https://www.instagram.com/h0o_nii/" target="_blank"><img src="https://img.shields.io/badge/h0o_nii-E4405F?style=flat-square&logo=instagram&logoColor=white"/>&nbsp
