@@ -9,11 +9,11 @@
     <br />
     <br />
   </div>
-  <h3>Contact me</h3>  
-  <div>
-    <a href="mailto:dukei201248@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dukei201248@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
-  <a href="https://www.instagram.com/h0o_nii/" target="_blank"><img src="https://img.shields.io/badge/h0o_nii-E4405F?style=flat-square&logo=instagram&logoColor=white"/>&nbsp
-  </div>
+  <h3>Open Source</h3>  
+  <ul>
+    <li>simple-icons : Add Cal.com icon [PR](https://github.com/simple-icons/simple-icons/pull/10908?notification_referrer_id=NT_kwDOBu2S67UxMDU0NjE4MjU1MToxMTYyMzI5Mzk#issuecomment-2113822367)</li>
+    <li>invoke-ai : Update min and max values for LoRACard weight input [PR](https://github.com/invoke-ai/InvokeAI/pull/6383?notification_referrer_id=NT_kwDOBu2S67UxMDY5NjcwMTQzMDoxMTYyMzI5Mzk#event-12841427461)</li>
+  </ul>
 <!--
 **H0onnn/H0onnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
