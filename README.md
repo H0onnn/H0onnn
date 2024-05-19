@@ -11,6 +11,7 @@
   </div>
   <h3>Open Source</h3>  
   <ul>
+    <li>twenty : Change Color in dark mode [PR](https://github.com/twentyhq/twenty/pull/5467?notification_referrer_id=NT_kwDOBu2S67UxMDcyMzE5Mjg4MDoxMTYyMzI5Mzk#event-12858674277)</li>
     <li>simple-icons : Add Cal.com icon [PR](https://github.com/simple-icons/simple-icons/pull/10908?notification_referrer_id=NT_kwDOBu2S67UxMDU0NjE4MjU1MToxMTYyMzI5Mzk#issuecomment-2113822367)</li>
     <li>invoke-ai : Update min and max values for LoRACard weight input [PR](https://github.com/invoke-ai/InvokeAI/pull/6383?notification_referrer_id=NT_kwDOBu2S67UxMDY5NjcwMTQzMDoxMTYyMzI5Mzk#event-12841427461)</li>
   </ul>
