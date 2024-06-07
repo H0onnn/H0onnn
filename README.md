@@ -16,7 +16,8 @@
     <li>simple-icons : Add Cal.com icon [PR](https://github.com/simple-icons/simple-icons/pull/10908?notification_referrer_id=NT_kwDOBu2S67UxMDU0NjE4MjU1MToxMTYyMzI5Mzk#issuecomment-2113822367)</li>
     <li>invoke-ai : Update min and max values for LoRACard weight input [PR](https://github.com/invoke-ai/InvokeAI/pull/6383?notification_referrer_id=NT_kwDOBu2S67UxMDY5NjcwMTQzMDoxMTYyMzI5Mzk#event-12841427461)</li>
   </ul>
-
+ <br />
+    <br />
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/H0onnn"/>
 </a>
